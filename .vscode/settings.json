@@ -3,9 +3,11 @@
     "autofocus",
     "discribe",
     "furima",
+    "importmap",
     "magick",
     "maxlength",
     "sprintf",
+    "stylesheet",
     "validatable"
   ]
 }
