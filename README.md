@@ -22,7 +22,8 @@ has_many :oder_histories
 | Column	             | Type      | Options                      |
 | -------------------- | --------- | ---------------------------- |
 | user_id              | references| foreign_key: true            |
-| item_name            | string    | null: false                  |
+| name                 | string    | null: false                  |
+| image                | text      | null: false                  |
 | item_info            | text      | null: false                  |
 | category_id          | integer   | null: false                  |
 | condition_id         | integer   | null: false                  |
